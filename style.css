@@ -22,3 +22,7 @@ img{
     align-items: center; /* Alinha verticalmente a imagem e o IMC */
     justify-content: flex-start; /* Mantém os itens alinhados à esquerda */
 }
+
+.calculator{
+    background-color: blue;
+}
